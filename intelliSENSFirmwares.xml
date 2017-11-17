@@ -4,25 +4,25 @@
 		<v1.0>
 			<v1.1>
 				<version>v1.1</version>
-				<url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.0/v1.1/v1.1.exe</url>
+				<url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.0/v1.1/v1.1.bin</url>
 			</v1.1>
 		</v1.0>
 		<v1.1>
 			<v1.1>
 				<version>v1.1</version>
-				<url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.1/v1.1/v1.1.exe</url>
+				<url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.1/v1.1/v1.1.bin</url>
 			</v1.1>
 		</v1.1>
 		<v1.2>
 			<v1.0>
 				<version>v1.1</version>
-				<url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.2/v1.0/v1.1.exe</url>
+				<url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.2/v1.0/v1.1.bin</url>
 			</v1.0>
 		</v1.2>
     <v1.3>
       <v1.0>
         <version>v1.1</version>
-        <url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.3/v1.0/v1.1.exe</url>
+        <url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTi2-A1/v1.3/v1.0/v1.1.bin</url>
       </v1.0>
     </v1.3>
 	</INTi2-A1>
@@ -30,7 +30,7 @@
     <v1.0>
       <v1.0>
         <version>v1.0</version>
-        <url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTDAQ-A1/v1.0/v1.0/v1.0.exe</url>
+        <url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTDAQ-A1/v1.0/v1.0/v1.0.bin</url>
       </v1.0>
     </v1.0>
   </INTDAQ-A1>
@@ -38,7 +38,7 @@
     <v1.0>
       <v1.0>
         <version>v1.0</version>
-        <url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTBridge-A1/v1.0/v1.0/v1.0.exe</url>
+        <url>https://raw.githubusercontent.com/waqasehsanbutt/coursera-test/master/INTBridge-A1/v1.0/v1.0/v1.0.bin</url>
       </v1.0>
     </v1.0>
   </INTBridge-A1>
